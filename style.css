@@ -18,5 +18,10 @@ h1 {
 }
 
 .Navigation {
-  display: inline-block;
+  display: inline;
+}
+
+.example{
+ display: inline;
+  float: right;
 }
